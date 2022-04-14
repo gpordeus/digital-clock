@@ -14,7 +14,7 @@ body {
 
 main {
     background-color: #ccc;
-    width: 400px;
+    width: 355px;
     height: 175px; 
     margin: 100px auto;
     position: relative;
@@ -38,7 +38,7 @@ main {
     background-color: #ebebeb;
     text-align: center;
     font-family: 'Orbitron', sans-serif;
-    font-size: 3rem;
+    font-size: 40px;
     padding: 30px 15px;
     border-radius: 24px;
 }
